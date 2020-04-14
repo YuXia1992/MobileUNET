@@ -14,7 +14,7 @@ original UNET:
 
 
 MobieUNET: <br>
-The exact parameters of MobileUNET for 4K imgages is in [MobileUNET4k](https://github.com/yyxx9922/MobileUNET/raw/master/MobileUNET4k.xlsx), and the computation amount is also there. <br><br>
+The exact size of every layers in MobileUNET for 4K images is in file [MobileUNET4k](https://github.com/yyxx9922/MobileUNET/raw/master/MobileUNET4k.xlsx), and the computation amount is also there. <br><br>
 
 ![](https://github.com/yyxx9922/MobileUNET/raw/master/mobileUNET.png) 
 
