@@ -12,7 +12,7 @@ original UNET:
 ![](https://github.com/yyxx9922/MobileUNET/raw/master/unet.png) 
 
 MobieUNET:
-
+![](https://github.com/yyxx9922/MobileUNET/raw/master/mobileUNET.png) 
 
 ## References:
 
