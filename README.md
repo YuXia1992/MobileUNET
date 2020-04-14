@@ -9,7 +9,9 @@ MobileUNET cuts down computation amounts by replacing standard convolution layer
 We replace conv3x3 blocks in original UNET to PWconv-DWconv-PWconv block, and modified the channel numbers.
 
 original UNET:
+![](https://github.com/yyxx9922/MobileUNET/raw/master/unet.png) 
 
+MobieUNET:
 
 
 ## References:
