@@ -14,6 +14,7 @@ original UNET:
 
 
 MobieUNET: <br><br>
+The exact parameters of MobileUNET for 4K imgages is in [MobileUNET4k](https://github.com/yyxx9922/MobileUNET/raw/master/MobileUNET4k.xlsx), and the computation amount is also there.
 ![](https://github.com/yyxx9922/MobileUNET/raw/master/mobileUNET.png) 
 
 ## References:
